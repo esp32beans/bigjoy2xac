@@ -1,5 +1,8 @@
 # Convert Big Joystick to Xbox Adaptive Controller Joystick
 
+Jan 12, 2024: After upgrading the XAC firmware, the Thrustmaster T.16000M
+USB flight stick works without an adaptor. This adaptor is no longer needed.
+
 ![XAC connected to big joystick using Leonardo and USB host shield](./images/bigjoy2xac.jpg)
 
 The only Big Joystick currently supported is the Thrustermaster T.16000M (T16K)
